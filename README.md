@@ -45,11 +45,11 @@
 
 
 
+<body>
+
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/jgimenolatas">Jorge Gimeno</a> 👋</h1>
 </div>
-
-
 
 ## About me
 
@@ -93,3 +93,8 @@
         <img src="https://imgur.com/K2qyXko.png" alt="Imagen 5">
     </div>
 </div>
+
+        
+</body>
+
+
