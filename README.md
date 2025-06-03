@@ -1,52 +1,42 @@
+<body style="margin: 0; padding: 20px; font-family: Arial, sans-serif;">
 <style>
-        body {
-            margin: 0;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-        }
+.flexbox-container {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
 
-        .flexbox-container {
-            display: flex;
-            width: 100%;
-            gap: 10px;
-        }
+.flexbox-container .column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
 
-        .flexbox-container .column {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
+.flexbox-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
 
-        .flexbox-container img {
-            width: 100%;
-            height: auto;
-            object-fit: cover;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-            transition: transform 0.3s ease;
-        }
+.flexbox-container .column img:hover {
+    transform: scale(1.05);
+}
 
-        .flexbox-container .column img:hover {
-            transform: scale(1.05);
-        }
-
-        /* Responsivo para móviles */
-        @media (max-width: 768px) {
-            .flexbox-container {
-                flex-direction: column;
-            }
-            
-            .flexbox-container .column {
-                margin-bottom: 20px;
-            }
-        }
-    </style>
-
-
-
-<body>
-
+/* Responsivo para móviles */
+@media (max-width: 768px) {
+    .flexbox-container {
+        flex-direction: column;
+    }
+    
+    .flexbox-container .column {
+        margin-bottom: 20px;
+    }
+}
+</style>
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/jgimenolatas">Jorge Gimeno</a> 👋</h1>
 </div>
@@ -94,7 +84,5 @@
     </div>
 </div>
 
-        
 </body>
-
 
