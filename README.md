@@ -1,7 +1,24 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/jgimenolatas">Jorge Gimeno</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/jgimenolatas">Jorge Gimeno</a> 👋</h1>
 </div>
-  
+
+<img src="https://i.imgur.com/weNbhGZ.png">
+
+## About me
+
+- 📱 Android Developer passionate about mobile innovation
+- 🚀 Always exploring new technologies
+- 🤝 Open to collaborate on exciting Android projects
+- 🌱 Always learning, always growing
+
+## Main projects
+
+- 🏃‍♂️ Created interval running app with GPS tracking, camera integration & real-time features
+- 💬 Real-time Chat Application with Firebase Realtime Database
+- 🔔 Push Notifications System: Full-stack development (frontend + backend)
+- ⏰ Smart Alarm Manager
+- 🔐 Firebase Authentication projects  
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
