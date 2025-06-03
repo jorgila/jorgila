@@ -34,4 +34,4 @@
 <img src="https://imgur.com/ATm664X.png">
 <img src="https://imgur.com/KAkyYPs.png">
 <img src="https://imgur.com/K2qyXko.png">
-<img src="https://imgur.com/a/292Wq2K.png">
+<img src="https://imgur.com/292Wq2K.png">
