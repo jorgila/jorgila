@@ -27,20 +27,8 @@
 </p>
 
 ## Image Samples
-<div style="display: flex; width: 100%; gap: 10px;">
-    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-        <img src="https://imgur.com/YhCz4so.png" alt="Imagen 1" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-    </div>
-    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-        <img src="https://imgur.com/ATm664X.png" alt="Imagen 2" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-    </div>
-    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-        <img src="https://imgur.com/KAkyYPs.png" alt="Imagen 3" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-    </div>
-    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-        <img src="https://imgur.com/hmbdcuJ.png" alt="Imagen 4" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-    </div>
-    <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-        <img src="https://imgur.com/K2qyXko.png" alt="Imagen 5" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-    </div>
-</div>
+<img src="https://imgur.com/YhCz4so.png" alt="Imagen 1" width="200" height="400">
+<img src="https://imgur.com/ATm664X.png" alt="Imagen 2" width="200" height="400">
+<img src="https://imgur.com/KAkyYPs.png" alt="Imagen 3" width="200" height="400">
+<img src="https://imgur.com/hmbdcuJ.png" alt="Imagen 4" width="200" height="400">
+<img src="https://imgur.com/K2qyXko.png" alt="Imagen 5" width="200" height="400">
