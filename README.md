@@ -6,7 +6,7 @@
 
 ## About me
 
-- 📱 Android Developer passionate about mobile innovation
+- 📱 Software Developer passionate about mobile innovation
 - 🚀 Always exploring new technologies
 - 🤝 Open to collaborate on exciting Android projects
 - 🌱 Always learning, always growing
