@@ -20,17 +20,14 @@
 ## Technology Stack
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; padding: 20px;">
+  
 <img src="https://img.shields.io/badge/Kotlin-8A2BE2">
-<img src="https://img.shields.io/badge/HTML-8A2BE2">
-<img src="https://img.shields.io/badge/CSS-8A2BE2">
-<img src="https://img.shields.io/badge/SQL-8A2BE2">
-<img src="https://img.shields.io/badge/PHP-8A2BE2"> 
 <img src="https://img.shields.io/badge/Jetpack%20Compose-8A2BE2">
+
 <img src="https://img.shields.io/badge/Hilt-8A2BE2">
 <img src="https://img.shields.io/badge/Retrofit-8A2BE2">
 <img src="https://img.shields.io/badge/MVVM-8A2BE2">
 <img src="https://img.shields.io/badge/Clean Architecture-8A2BE2">
-<img src="https://img.shields.io/badge/Room%20Database-8A2BE2">
 <img src="https://img.shields.io/badge/Kotlin%20Coroutines-8A2BE2">
 <img src="https://img.shields.io/badge/LiveData-8A2BE2">
 <img src="https://img.shields.io/badge/StateFlow-8A2BE2">
@@ -38,11 +35,27 @@
 <img src="https://img.shields.io/badge/JUnit-8A2BE2">
 <img src="https://img.shields.io/badge/Gradle-8A2BE2">
 <img src="https://img.shields.io/badge/Kotlin%20Gradle%20DSL-8A2BE2">
+  
 <img src="https://img.shields.io/badge/Firebase-8A2BE2">
+<img src="https://img.shields.io/badge/Authentication-8A2BE2">  
 <img src="https://img.shields.io/badge/Crashlytics-8A2BE2">
+<img src="https://img.shields.io/badge/Firestore%20Database-8A2BE2">
+<img src="https://img.shields.io/badge/Realtime%20Database-8A2BE2">
+<img src="https://img.shields.io/badge/Storage-8A2BE2">
+
+<img src="https://img.shields.io/badge/Room%20Database-8A2BE2">
+<img src="https://img.shields.io/badge/MongoDB-8A2BE2">
+
 <img src="https://img.shields.io/badge/SharedPreferences-8A2BE2">
 <img src="https://img.shields.io/badge/DataStore-8A2BE2">
+
 <img src="https://img.shields.io/badge/CameraX-8A2BE2">
+
+<img src="https://img.shields.io/badge/HTML-8A2BE2">
+<img src="https://img.shields.io/badge/CSS-8A2BE2">
+<img src="https://img.shields.io/badge/SQL-8A2BE2">
+<img src="https://img.shields.io/badge/PHP-8A2BE2"> 
+<img src="https://img.shields.io/badge/DAX-8A2BE2">
 </div>
 
 ## GitHub Analytics
