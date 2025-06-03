@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/jgimenolatas">Jorge Gimeno</a> 👋</h1>
+</div>
 <!--
 **jorgila/jorgila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
