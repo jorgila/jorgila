@@ -30,4 +30,4 @@
 
 ## Image Samples
 
-<img src="https://imgur.com/a/pj6olJT">
+<img src="https://imgur.com/YhCz4so.png">
