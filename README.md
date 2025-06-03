@@ -15,8 +15,34 @@
 - 💬 Real-time Chat Application with Firebase Realtime Database
 - 🔔 Push Notifications System: Full-stack development (frontend + backend)
 - ⏰ Smart Alarm Manager
-- 🔐 Firebase Authentication projects  
+- 🔐 Firebase Authentication projects
 
+## Technology Stack
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; padding: 20px;">
+<img src="https://img.shields.io/badge/Kotlin-8A2BE2">
+<img src="https://img.shields.io/badge/HTML-8A2BE2">
+<img src="https://img.shields.io/badge/CSS-8A2BE2">
+<img src="https://img.shields.io/badge/SQL-8A2BE2">
+<img src="https://img.shields.io/badge/PHP-8A2BE2"> 
+<img src="https://img.shields.io/badge/Jetpack%Compose-8A2BE2">
+<img src="https://img.shields.io/badge/Hilt-8A2BE2">
+<img src="https://img.shields.io/badge/Retrofit-8A2BE2">
+<img src="https://img.shields.io/badge/MVVM-8A2BE2">
+<img src="https://img.shields.io/badge/Clean Architecture-8A2BE2">
+<img src="https://img.shields.io/badge/Room%Database-8A2BE2">
+<img src="https://img.shields.io/badge/Kotlin%Coroutines-8A2BE2">
+<img src="https://img.shields.io/badge/LiveData-8A2BE2">
+<img src="https://img.shields.io/badge/StateFlow-8A2BE2">
+<img src="https://img.shields.io/badge/OkHttp-8A2BE2">
+<img src="https://img.shields.io/badge/JUnit-8A2BE2">
+<img src="https://img.shields.io/badge/Gradle-8A2BE2">
+<img src="https://img.shields.io/badge/Kotlin%Gradle%DSL-8A2BE2">
+<img src="https://img.shields.io/badge/Firebase-8A2BE2">
+<img src="https://img.shields.io/badge/Crashlytics-8A2BE2">
+<img src="https://img.shields.io/badge/SharedPreferences-8A2BE2">
+<img src="https://img.shields.io/badge/DataStore-8A2BE2">
+<img src="https://img.shields.io/badge/CameraX-8A2BE2">
+</div>
 ## GitHub Analytics
 
 <p align="center">
@@ -27,6 +53,9 @@
 </p>
 
 ## Screenshots
+
+- Running App
+
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; padding: 20px;">
       <img src="https://imgur.com/YhCz4so.png" alt="Imagen 1" style="width: 150px; height: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <img src="https://imgur.com/ATm664X.png" alt="Imagen 2" style="width: 150px; height: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -34,3 +63,6 @@
       <img src="https://imgur.com/hmbdcuJ.png" alt="Imagen 4" style="width: 150px; height: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <img src="https://imgur.com/K2qyXko.png" alt="Imagen 5" style="width: 150px; height: 300px; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   </div>
+
+
+  
