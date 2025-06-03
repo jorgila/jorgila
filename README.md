@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/jgimenolatas">Jorge Gimeno</a> 👋</h1>
 </div>
 
-<img src="https://imgur.com/0oacNtH.png">
+<img src="https://imgur.com/WcRc2hK.png">
 
 ## About me
 
