@@ -19,7 +19,7 @@
 - ⏰ Smart Alarm Manager
 - 🔐 Firebase Authentication projects  
 
-### ⚙️ &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/jorgila">
