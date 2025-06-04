@@ -52,6 +52,8 @@
 <img src="https://img.shields.io/badge/DataStore-8A2BE2">
 
 <img src="https://img.shields.io/badge/CameraX-8A2BE2">
+<img src="https://img.shields.io/badge/AlarmManager-8A2BE2">
+
 
 <img src="https://img.shields.io/badge/HTML-8A2BE2">
 <img src="https://img.shields.io/badge/CSS-8A2BE2">
