@@ -22,9 +22,11 @@
 ## Technology Stack
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; padding: 20px;">
-  
+
+<img src="https://img.shields.io/badge/KMP-8A2BE2">
 <img src="https://img.shields.io/badge/Kotlin-8A2BE2">
 <img src="https://img.shields.io/badge/Jetpack%20Compose-8A2BE2">
+<img src="https://img.shields.io/badge/Swift-8A2BE2">
 
 <img src="https://img.shields.io/badge/Hilt-8A2BE2">
 <img src="https://img.shields.io/badge/Retrofit-8A2BE2">
