@@ -66,7 +66,9 @@
 <img src="https://img.shields.io/badge/ChatGPT-8A2BE2"> 
 <img src="https://img.shields.io/badge/Gemini-8A2BE2"> 
 <img src="https://img.shields.io/badge/Claude%20AI-8A2BE2">
+<img src="https://img.shields.io/badge/Copilot-8A2BE2">
 </div>
+
 ## GitHub Analytics
 
 <p align="center">
