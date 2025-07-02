@@ -72,14 +72,15 @@
 ## Soft Skills
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; padding: 20px;">
-<img src="https://img.shields.io/badge/Adaptabilidad%20y%20flexibilidad-8A2BE2">
-  <img src="https://img.shields.io/badge/Aprendizaje%20continuo%20y%20autodidacta-8A2BE2">
-  <img src="https://img.shields.io/badge/Visión%20empresarial-8A2BE2">
-  <img src="https://img.shields.io/badge/Resolución%20de%20problemas%20complejos-8A2BE2">
-  <img src="https://img.shields.io/badge/Comunicación%20técnica-8A2BE2">
-</div>
-  <img src="https://img.shields.io/badge/Perseverancia%20orientada%20a%20objetivos-8A2BE2">
-    <img src="https://img.shields.io/badge/Mentalidad%20emprendedora-8A2BE2">
+
+  <img src="https://img.shields.io/badge/Adaptabilidad%20y%20flexibilidad-8A2BE2">
+<img src="https://img.shields.io/badge/Aprendizaje%20continuo%20y%20autodidacta-8A2BE2">
+<img src="https://img.shields.io/badge/Visión%20empresarial-8A2BE2">
+<img src="https://img.shields.io/badge/Resolución%20de%20problemas%20complejos-8A2BE2">
+<img src="https://img.shields.io/badge/Comunicación%20técnica-8A2BE2">
+<img src="https://img.shields.io/badge/Perseverancia%20orientada%20a%20objetivos-8A2BE2">
+<img src="https://img.shields.io/badge/Mentalidad%20emprendedora-8A2BE2">
+
 </div>
 
 ## GitHub Analytics
